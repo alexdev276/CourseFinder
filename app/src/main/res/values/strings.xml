@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseFinder</string>
+    <string name="data_scientist">Data Scientist</string>
+    <string name="generate">Generate</string>
+    <string name="back">Back</string>
+    <string name="python_developer">Python Developer</string>
+    <string name="javascript_developer">JavaScript developer</string>
+</resources>
